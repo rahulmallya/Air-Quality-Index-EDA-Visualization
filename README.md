@@ -1,4 +1,4 @@
-# Air-Quality-Index-EDA-Visualization
+# Air-Quality-Index-Of-India
 
 Please find the python notebook for the Phase-1/ Exploratory data analysis+ visualization report above.
 
